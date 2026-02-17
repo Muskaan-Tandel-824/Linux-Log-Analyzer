@@ -19,9 +19,11 @@ chmod +x log_analyzer.sh
 ##ScreenShots :
 ![Project Output](screenshots/OUTPUT-LOG-ANALYZER-PROJECT.png)
 
+#Result :
+The result was an automated log analysis tool that reduces manual log checking effort and quickly highlights failed login attempts and system errors, improving troubleshooting efficiency and server monitoring.
 
 #You Can Connect With Me
-## 👤  LinkedIn
+# 👤  LinkedIn
 🔗 LinkedIn: https://www.linkedin.com/in/muskaan-tandel-b59bb8343/
 
 
