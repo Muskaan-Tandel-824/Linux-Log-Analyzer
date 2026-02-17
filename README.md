@@ -13,5 +13,6 @@ A Bash-based Linux Log Analyzer that parses system logs to identify:
 #give execute permission through below command
 chmod +x log_analyzer.sh
 
+#after permission run using below syntax
 ./log_analyzer.sh
 
