@@ -2,7 +2,7 @@
 
 echo "========== Linux Log Analyzer =========="
 echo "Hostname: $(hostname)"
-echo "Date: $(date)"
+echo "Date: $(date)"   
 echo "----------------------------------------"
 
 echo "Failed SSH Login Attempts:"
@@ -15,5 +15,5 @@ echo "----------------------------------------"
 
 echo "Total Error Messages:"
 sudo journalctl | grep -i error | wc -l
-echo "----------------------------------------"
+echo "---------------------------------------"
 
