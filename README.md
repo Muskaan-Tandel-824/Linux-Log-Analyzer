@@ -10,6 +10,8 @@ A Bash-based Linux Log Analyzer that parses system logs to identify:
 - Linux (Amazon Linux)
 
 ## How to Run
+#give execute permission through below command
 chmod +x log_analyzer.sh
+
 ./log_analyzer.sh
 
