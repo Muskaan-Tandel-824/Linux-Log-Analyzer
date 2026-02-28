@@ -7,7 +7,7 @@ A Bash-based Simple but Importannt Linux Log Analyzer that parses system logs to
 
 ## Technologies Used :
 - Bash
-- Linux (Amazon Linux)
+- Linux 
 
 ## How to Run :
 #give execute permission through below command :
