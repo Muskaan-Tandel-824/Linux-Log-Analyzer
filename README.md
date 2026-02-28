@@ -1,5 +1,6 @@
-# Linux Log Analyzer :
+# Linux Log Analyzer 
 
+Project Overview:
 A Bash-based Simple but Importannt Linux Log Analyzer that parses system logs to identify:
 - Failed SSH login attempts
 - Frequent error messages
